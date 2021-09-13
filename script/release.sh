@@ -10,8 +10,8 @@
 RELEASE_DIR=/home/work/dunews-release/dunews-selectsvr
 WORK_DIR=/home/work/fengjinhai/dunews-selectsvr
 HOST_DIR=/home/work/dunews-selectsvr
-SOURCE_HOST=cq01-globalpm-eval1-5.cq01.baidu.com
-HOSTS="hkg02-dutube-disk04.hkg02.baidu.com"
+SOURCE_HOST=
+HOSTS=""
 #HOSTS="work@nj02-gnews-app00.nj02"
 SOURCE_NAME=dunews-selectsvr.tar
 [[ -d ${RELEASE_DIR} ]] || mkdir -p ${RELEASE_DIR}
